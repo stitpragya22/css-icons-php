@@ -21,6 +21,8 @@ public function test()
 $fontawaysomeicons=FontAwaysome::getAllIcons();
 
 $flaticons=FontAwaysome::getAllFlaticons();
+//bootstrap 3.x version glyphicons
+$glyphicons=FontAwaysome::getAllGlyphicons();
 
 }
 ```
